@@ -26,7 +26,7 @@
 - [Тест-кейс 01 — Получение заказа по id после создания заказа](https://polynoteqa.kaiten.ru/p/c/d0dc7ee4-af03-4ca8-bca3-d120abe0b532)
 - [Баг-репорт 01 — Получение заказа по id](https://polynoteqa.kaiten.ru/p/c/388bc8b1-d381-4362-a6ca-7df829005615)
 - [Тест-план](https://docs.google.com/document/d/1-tRqDsYFVlPR5Pcr02Bm2xO-GrxkyZpcZ38KUqeE-Ps/edit?usp=drive_link)
-- [Postman коллекция](01_PetStore.postman_collection.json)
+- [Postman коллекция](PetStore.postman_collection.json)
 
 ### 2. [SauceDemo](https://www.saucedemo.com/v1/)
 - [Чек-лист — Standart_user](https://polynoteqa.kaiten.ru/p/c/eda6cb04-2b5a-4c73-add0-4a2c1162af57)
