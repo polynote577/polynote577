@@ -23,8 +23,8 @@
 ### 1. [Swagger Petstore — API Testing](https://petstore.swagger.io/)
 
 - [Чек-лист](petstore_checklist.md)
-- [Тест-кейс 01 — Получение заказа по id после создания заказа](https://polynoteqa.kaiten.ru/p/c/d0dc7ee4-af03-4ca8-bca3-d120abe0b532)
-- [Баг-репорт 01 — Получение заказа по id](https://polynoteqa.kaiten.ru/p/c/388bc8b1-d381-4362-a6ca-7df829005615)
+- [Тест-кейс — Получение заказа по id после создания заказа](https://polynoteqa.kaiten.ru/p/c/d0dc7ee4-af03-4ca8-bca3-d120abe0b532)
+- [Баг-репорт — Получение заказа по id](https://polynoteqa.kaiten.ru/p/c/388bc8b1-d381-4362-a6ca-7df829005615)
 - [Тест-план](https://docs.google.com/document/d/1-tRqDsYFVlPR5Pcr02Bm2xO-GrxkyZpcZ38KUqeE-Ps/edit?usp=drive_link)
 - [Postman коллекция](PetStore.postman_collection.json)
 
