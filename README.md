@@ -13,7 +13,6 @@
 
 **Языки**: Русский (Native), English (B2)
 
-📄 **[Актуальное резюме в формате PDF](./Resume_Polina_Nizomova_QA.pdf)**
 📥 **Контакты:** Telegram: [@inkalune](https://t.me/inkalune) | Email: polyapv@outlook.com
 
 ---
